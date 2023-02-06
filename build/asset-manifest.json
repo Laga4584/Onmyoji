@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.49a13902.css",
+    "main.js": "/static/js/main.333db3c7.js",
+    "static/js/787.784b7ad2.chunk.js": "/static/js/787.784b7ad2.chunk.js",
+    "static/media/scene1.jpg": "/static/media/scene1.e7ad5ca1500206892794.jpg",
+    "static/media/bg1.jpg": "/static/media/bg1.17db069add7e907d6b2f.jpg",
+    "static/media/image1.jpg": "/static/media/image1.3fb1d44e86a747f8cca8.jpg",
+    "static/media/scene2-1.jpg": "/static/media/scene2-1.619bd239541a7d692d71.jpg",
+    "static/media/scene2-2.jpg": "/static/media/scene2-2.86ec03b138af6fab9a22.jpg",
+    "static/media/susabi.png": "/static/media/susabi.14ac450e95dbdd13477a.png",
+    "static/media/susanoo.png": "/static/media/susanoo.8f8c500136d7e7ee4e6e.png",
+    "static/media/orochi.png": "/static/media/orochi.cc53c2bf084eb0e371c1.png",
+    "static/media/amaterasu.png": "/static/media/amaterasu.d05e2dbcd5158dc8d4cf.png",
+    "static/media/susabi_tn.png": "/static/media/susabi_tn.6d3420885012e8791911.png",
+    "static/media/character.jpg": "/static/media/character.85fc2e81edce116fbd43.jpg",
+    "static/media/orochi_tn.png": "/static/media/orochi_tn.1394b22916b315e6dd28.png",
+    "static/media/susanoo_tn.jpg": "/static/media/susanoo_tn.1b360c41ebd9adf752e6.jpg",
+    "static/media/onmyoji.png": "/static/media/onmyoji.9dee9965c5fde4c36276.png",
+    "index.html": "/index.html",
+    "main.49a13902.css.map": "/static/css/main.49a13902.css.map",
+    "main.333db3c7.js.map": "/static/js/main.333db3c7.js.map",
+    "787.784b7ad2.chunk.js.map": "/static/js/787.784b7ad2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49a13902.css",
+    "static/js/main.333db3c7.js"
+  ]
+}
