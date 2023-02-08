@@ -8,7 +8,7 @@ function Script() {
   // DB에서 스크립트 데이터 가져오기
   const getList = () => {
     axios
-      .post("http://localhost:3000/api/getScript", {})
+      .post("/api2/getScript", {})
       .then((res) => {
         const { data } = res;
         setScriptList(data);
