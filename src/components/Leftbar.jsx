@@ -15,7 +15,7 @@ function Leftbar(props) {
             <span></span>
             <span></span>
           </div>
-          <span className="text_rotate">SCROLL</span>
+          <span className="text_rotate"></span>
           <div
             className="scroll_next"
             onClick={function () {
