@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/onmyoji/static/css/main.369d761a.css",
+    "main.css": "/onmyoji/static/css/main.a54bfa56.css",
     "main.js": "/onmyoji/static/js/main.3d5a6d74.js",
     "static/js/787.784b7ad2.chunk.js": "/onmyoji/static/js/787.784b7ad2.chunk.js",
     "static/media/cg1.mp4": "/onmyoji/static/media/cg1.ec8e8326287a14ddb0bb.mp4",
@@ -21,12 +21,12 @@
     "static/media/susanoo_tn.jpg": "/onmyoji/static/media/susanoo_tn.1b360c41ebd9adf752e6.jpg",
     "static/media/onmyoji.png": "/onmyoji/static/media/onmyoji.9dee9965c5fde4c36276.png",
     "index.html": "/onmyoji/index.html",
-    "main.369d761a.css.map": "/onmyoji/static/css/main.369d761a.css.map",
+    "main.a54bfa56.css.map": "/onmyoji/static/css/main.a54bfa56.css.map",
     "main.3d5a6d74.js.map": "/onmyoji/static/js/main.3d5a6d74.js.map",
     "787.784b7ad2.chunk.js.map": "/onmyoji/static/js/787.784b7ad2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.369d761a.css",
+    "static/css/main.a54bfa56.css",
     "static/js/main.3d5a6d74.js"
   ]
 }
