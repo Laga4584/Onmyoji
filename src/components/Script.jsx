@@ -1,11 +1,14 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
+import Scripts from "../data/Scripts";
 
 function Script() {
-  const [scriptList, setScriptList] = useState([{ line: "" }]);
+  //const [scriptList, setScriptList] = useState([{ line: "" }]);
+  const scriptList = Scripts;
   const [scriptIndex, setScriptIndex] = useState(0);
 
   // DB에서 스크립트 데이터 가져오기
+  /*
   const getList = () => {
     axios
       .post("http://ec2-3-36-6-64.ap-northeast-2.compute.amazonaws.com:3000/api2/getScript", {})
@@ -17,9 +20,9 @@ function Script() {
         console.error(e);
       });
   };
-
+*/
   useEffect(() => {
-    getList();
+    //getList();
   }, []);
 
   if (scriptList.length > 0)

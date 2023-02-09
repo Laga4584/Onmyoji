@@ -1,6 +1,7 @@
 import React, {useRef, useEffect, useCallback} from "react";
 import Conversation from "../data/Conversation";
 import useScrollFadeIn from '../hooks/useScrollFadeIn';
+import video from '../images/story/cg2.mp4';
 
 function Story() {
     const fadeInImage = [useScrollFadeIn('right', 1, 0), useScrollFadeIn('left', 1, 0), useScrollFadeIn('right', 1, 0), useScrollFadeIn('left', 1, 0), useScrollFadeIn('right', 1, 0), useScrollFadeIn('right', 1, 0), useScrollFadeIn('right', 1, 0), useScrollFadeIn('right', 1, 0), useScrollFadeIn('right', 1, 0), useScrollFadeIn('left', 1, 0.5)];
@@ -64,7 +65,7 @@ function Story() {
                     </div>
                 </div>
                 <div className="video">
-                <video type="video/mp4" src="assets/story/cg.mp4" controls="controls" ref={videoRef}></video>
+                <video type="video/mp4" src={video} controls="controls" ref={videoRef}></video>
                 </div>
 
 		</section>

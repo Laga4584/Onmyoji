@@ -14,7 +14,7 @@ function Rightbar(props) {
                 }}
               >
                 <span style={ props.characterMenu == 0 ? {
-                      backgroundColor: Characters[props.characterIndex].color
+                      backgroundColor: Characters[props.characterIndex].color2
                     } : {}}>소개</span>
               </a>
             </li>
@@ -24,7 +24,7 @@ function Rightbar(props) {
                 }}
               >
                 <span style={ props.characterMenu == 1 ? {
-                      backgroundColor: Characters[props.characterIndex].color
+                      backgroundColor: Characters[props.characterIndex].color2
                     } : {}}>프로필</span>
               </a>
             </li>

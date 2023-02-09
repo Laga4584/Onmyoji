@@ -1,4 +1,5 @@
 import React, {useRef, useCallback, useEffect} from "react";
+import video from '../images/story/cg1.mp4';
 
 function Home() {
   const secRef = useRef(null);
@@ -67,7 +68,7 @@ function Home() {
         </a>
       </div>
       </div>
-      <video type="video/mp4" src="assets/story/cg.mp4" controls="controls" ref={videoRef}></video>
+      <video type="video/mp4" src={video} controls="controls" ref={videoRef}></video>
     </section>
   );
 }

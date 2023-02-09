@@ -69,7 +69,9 @@ function Character(props) {
               }}
             ></div>
           </div>
-          <div className="character_image">
+          <div className="character_image" style={{
+                backgroundImage: val.image2,
+              }}>
           </div>
           </div>
         );
